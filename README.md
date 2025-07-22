@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dhanush 👋</h1>
 
-<!--
-**DhanushS-2005/DhanushS-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Final-year Computer Science Engineering student at <br><b>Dhanalakshmi Srinivasan College of Engineering and Technology, Chennai</b> <br>
+  💻 Passionate about <b>Web Development, Java Programming</b>, and exploring trending technologies.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on:
+  - 🚀 Full Stack Projects (MERN Stack)
+  - 🛍 E-commerce & Quiz Websites
+  - 📧 Spam Mail Detection using NLP
+
+- 🌱 I’m currently learning:
+  - React.js, Node.js, Express.js
+  - MongoDB, REST API, and Deployment
+
+- 💬 Ask me about:
+  - Frontend Development
+  - GitHub Projects
+  - Java & Python basics
+
+- 📫 How to reach me: 
+  - 📧 dhanush.cse.ds@gmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/dhanushs) (update link with your actual LinkedIn)
+
+---
+
+### ⚙️ Tech Stack
+
+```bash
+Languages:    Java, JavaScript, Python, HTML, CSS
+Frameworks:   React, Flask, Django (Basics)
+Tools:        Git, GitHub, VS Code, Postman
+Databases:    MongoDB, MySQL
