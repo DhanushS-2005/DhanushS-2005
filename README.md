@@ -24,8 +24,9 @@
   - Java & Python basics
 
 - 📫 How to reach me: 
-  - 📧 dhanush.cse.ds@gmail.com
+  - 📧 dhanushdhanush1357@gmail.com
   - 💼 [LinkedIn](https://www.linkedin.com/in/dhanushs) (update link with your actual LinkedIn)
+<img width="2000" height="1200" alt="skill_bar_chart" src="https://github.com/user-attachments/assets/d6b08b97-9752-4b36-b1a9-767b63d886ac" />
 
 ---
 
@@ -33,6 +34,6 @@
 
 ```bash
 Languages:    Java, JavaScript, Python, HTML, CSS
-Frameworks:   React, Flask, Django (Basics)
+Frameworks:   React, Bootstrap (Basics)
 Tools:        Git, GitHub, VS Code, Postman
 Databases:    MongoDB, MySQL
