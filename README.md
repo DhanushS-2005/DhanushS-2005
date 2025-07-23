@@ -13,7 +13,7 @@
 - 🧠 Interested in: **Full Stack Development**
 - ✍️ I write clean and maintainable code, and enjoy solving real-world problems
 - 💬 Ask me about anything related to **React, Python, Java, or HTML/CSS**
-- 📫 Reach me at: **dhanushdhanush1357@gmail.com**
+- 📫 Reach me at: **dhanushsenthil45@gmail.com**
 
 ---
 
