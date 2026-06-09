@@ -13,7 +13,7 @@
 - 🧠 Interested in: **Full Stack Development**
 - ✍️ I write clean and maintainable code, and enjoy solving real-world problems
 - 💬 Ask me about anything related to **React, Python, Java, or HTML/CSS**
-- 📫 Reach me at: **dhanushsenthil45@gmail.com**
+- 📫 Reach me at: **dhanushdhanush1357@gmail.com**
 
 ---
 
@@ -31,11 +31,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
 
 ---
 
