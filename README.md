@@ -36,10 +36,6 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushs2003&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushs2003&theme=github-dark-blue" width="47%"/>
-</p>
 
 ---
 
